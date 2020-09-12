@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="header-container">
+    <div class="menu-items">
+      <div class="nav-items">메뉴</div>
+    </div>
+      <div class="logo-items"><img src="https://rs.nxfs.nexon.com/gnb/images/logo_nexon.png"></div>
+      <div class="account-items">
+      <div class="nav-items1">PC방OFF  </div>
+      <div class="nav-items2">넥슨 회원가입  </div>
+    
+      <div class="button-items">
+        <div class="buttons3"> 넥슨 로그인 </div>
+      </div>
+      </div>
+      
+    </header>
+
+    <section class="main-nav-container">
+      <nav class="nav-bar">
+        <div class="nav-items">뉴스    </div>
+          <div class="nav-items">  가이드 </div>
+            <div class="nav-items">  랭킹 </div>
+              <div class="nav-items"> 커뮤니티 </div> 
+                <div class="nav-items"> 미디어  </div>
+                  <div class="nav-items">  고객지원 </div>
+
+      </nav>
+    </section>
+
+    <div class="main-contents">
+      <div class="login-box">
+        <div class="login-items4">넥슨이메일ID로그인</div>
+            <div class="login-items5">메이플ID로그인</div>
+      </div>
+             <div class="another">
+                <div class="login-items6">다른 계정 간편 로그인</div>
+             </div>
+             <div class="sign-up">
+                <div class="login-items7">회원가입</div>
+                  <div class="login-items8">이메일ID전환</div>
+             </div>
+            
+      </div>
+    </div>
+
+
+          
+
+
+
+      
+
+    <script src="script.js"></script>
+  </body>
+</html>
